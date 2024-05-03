@@ -1,2 +1,4 @@
 # cs2rpc
 Counter Strike 2 RPC
+
+![df4q7sg-84893acd-f565-438c-a3ad-b4f7cf63d587](https://github.com/ethangwaddell/cs2rpc/assets/40289304/29fc79ab-0331-4678-aade-6acfe5c8909b)

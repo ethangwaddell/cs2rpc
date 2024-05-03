@@ -1,7 +1,7 @@
 # cs2rpc
 CS2RPC: Discord Rich Presence for CS2
 
-Work in progress but currently stable
+Work in progress but __currently stable__
 
 Key Features
 Seamless Integration: CS2RPC automatically syncs with your CS2 gameplay, updating your Discord Rich Presence in real-time.

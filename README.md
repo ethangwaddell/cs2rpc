@@ -1,4 +1,4 @@
-![0x0-topaz-enhance-2x-sharpen-textai](https://github.com/ethangwaddell/cs2rpc/assets/40289304/4d151baf-48a0-4ac7-9b30-6fea759000c1)
+![image](https://github.com/ethangwaddell/cs2rpc/assets/40289304/a114f6a6-70ef-4d22-bbde-038938af6110)
 
 # cs2rpc
 CS2RPC: Discord Rich Presence for CS2

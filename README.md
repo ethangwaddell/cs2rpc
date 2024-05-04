@@ -22,4 +22,4 @@ Need help? [Join my support server](https://discord.gg/4KrEA3PKmU)
 </p>
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE) file for details.

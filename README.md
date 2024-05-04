@@ -14,7 +14,7 @@ CS2RPC is a Rich Presence application designed to showcase custom status informa
 	- [License](#license)
 
 ## How It Works
-CS2RPC utilizes the Counter-Strike Game State Integration to retrieve data from your client.
+CS2RPC utilizes the Counter-Strike Game State Integration to retrieve data from your client. Run the app with CS2 open and it will work from there.
 ## Example
 <p align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/40289304/327915843-d682e171-7cd8-461c-840f-f878b5a05cda.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240504%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240504T033418Z&X-Amz-Expires=300&X-Amz-Signature=6bef9fac71eba91bb46a1745792441c40c6152bc3893ad6ea1595a30a46ccbe5&X-Amz-SignedHeaders=host&actor_id=40289304&key_id=0&repo_id=795285152" alt="Showcase Image">

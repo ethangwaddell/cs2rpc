@@ -1,6 +1,6 @@
 
 # CS2RPC  
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/ethangwaddell/cs2rpc?color=grey&label=Latest%20Release&logo=github)](https://github.com/ethangwaddell/cs2rpc/releases)
+![Latest Release](https://img.shields.io/github/v/release/ethangwaddell/cs2rpc?color=grey&label=Latest%20Release&logo=github)
 [![GitHub release (latest by SemVer)](https://img.shields.io/github/downloads/ethangwaddell/cs2rpc/latest/total?color=cyan&label=Downloads&logo=github)](https://github.com/ethangwaddell/cs2rpc/releases)
 
 

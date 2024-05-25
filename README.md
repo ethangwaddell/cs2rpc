@@ -21,3 +21,4 @@ CS2RPC utilizes the Counter-Strike Game State Integration to retrieve data from 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE) file for details.
+<meta name="google-site-verification" content="vO3yTYUHkQJoCLTulHfxYdbVbTUzL__qiWt5utsGl9Y" />

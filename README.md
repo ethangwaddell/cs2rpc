@@ -1,4 +1,4 @@
-
+<meta name="google-site-verification" content="vO3yTYUHkQJoCLTulHfxYdbVbTUzL__qiWt5utsGl9Y" />
 # CS2RPC  
 ![Latest Release](https://img.shields.io/github/v/release/ethangwaddell/cs2rpc?color=grey&label=Latest%20Release&logo=github)
 [![GitHub All Releases](https://img.shields.io/github/downloads/ethangwaddell/cs2rpc/total?color=cyan&label=Downloads&logo=github)](https://github.com/ethangwaddell/cs2rpc/releases)
@@ -21,4 +21,3 @@ CS2RPC utilizes the Counter-Strike Game State Integration to retrieve data from 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE) file for details.
-<meta name="google-site-verification" content="vO3yTYUHkQJoCLTulHfxYdbVbTUzL__qiWt5utsGl9Y" />
